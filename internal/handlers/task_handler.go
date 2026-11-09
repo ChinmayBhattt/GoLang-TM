@@ -199,3 +199,4 @@ func (h *TaskHandler) GetStats(w http.ResponseWriter, r *http.Request) {
 		Data:    stats,
 	})
 }
+

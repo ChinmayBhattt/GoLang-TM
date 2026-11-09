@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+taskmanager-server
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# OS files
+.DS_Store
+

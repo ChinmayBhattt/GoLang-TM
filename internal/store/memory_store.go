@@ -310,3 +310,4 @@ func (s *MemoryStore) GetStats() models.TaskStats {
 		CompletionRate: rate,
 	}
 }
+
